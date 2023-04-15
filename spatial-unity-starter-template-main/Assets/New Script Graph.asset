@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: New Script Graph
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-231.0,"y":15.0},"guid":"191b05ae-c531-4ff6-a81c-5a019cb0b394","$version":"A","$type":"Unity.VisualScripting.If"},{"coroutine":false,"defaultValues":{},"position":{"x":-243.0,"y":-150.0},"guid":"890f77a7-c3f3-4c4c-bbcf-7af455aeec03","$version":"A","$type":"Unity.VisualScripting.Start"}],"$version":"A"}}'
     _objectReferences: []
