@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497bdf9eb0f204b1aa8886835bf4b08e, type: 3}
+  m_Name: PrefabObject_2
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 643b583307adc62740c4d08d
+  packageName: Airplane_smooth
+  thumbnail: {fileID: 2800000, guid: c6af7be93037a9e49be9e6e30d3c4b14, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  prefab: {fileID: 8538380184239869101, guid: 0bcdbb0f66f8a294c867cf0099d8aa26, type: 3}
